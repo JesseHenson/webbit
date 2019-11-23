@@ -10,6 +10,7 @@ const useStyles = makeStyles(theme => ({
     backgroundRepeat: "repeat-y",
     backgroundSize: "cover",
     height: "100vh",
+    backgroundAttachment: "fixed",
   },
 }))
 
